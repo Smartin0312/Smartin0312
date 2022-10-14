@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm smartin0312</h1>
 <h3 align="center">I am a programming student</h3>
 
+-🏐🎮<3 I have volleyball and video games as a hobby
+
 - 🌱 I’m currently learning **programming**
 
 - 📫 How to reach me **salvadormartinmarrufo@gmail.com**
