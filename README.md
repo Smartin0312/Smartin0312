@@ -22,5 +22,4 @@
 <h3 align="left">Estadísticas de trofeos GitHub:</h3>
 <img src="https://github-profile-trophy.vercel.app/?username=Smartin0312"/>
 
- https://user-images.githubusercontent.com/115450110/195806438-9f5e4e35-5110-4c85-9995-1c71df8622e2.mp4 
 
